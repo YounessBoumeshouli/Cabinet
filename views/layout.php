@@ -146,7 +146,7 @@
     <nav class="bg-gray-900 text-white py-4 sticky top-0 z-50 shadow-lg">
         <div class="container mx-auto flex justify-between items-center">
             <a href="index.php" class="text-2xl font-bold text-white flex items-center gap-2 hover:text-indigo-400 transition-colors duration-300">
-                <span class="text-indigo-500">You</span>demy
+                <span class="text-indigo-500">You</span>Cabinet
             </a>
             <ul class="flex space-x-6">
                 <li><a href="index.php" class="nav-link">Home</a></li>

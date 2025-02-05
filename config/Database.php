@@ -6,7 +6,7 @@ class Database {
     private function __construct() {
         $host = "localhost";
         $port = "5432";
-        $dbname = "Cabinet";
+        $dbname = "cabinet";
         $user = "postgres";
         $pass = "Youness";
 

@@ -1,6 +1,6 @@
 <?php
 require_once 'Patient.php';
-require_once 'Medine.php';
+require_once 'Medcine.php';
 require_once 'Admin.php';
 
 class UserFactory {
